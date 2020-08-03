@@ -60,7 +60,6 @@ func Test(){
     print(result)
 }
 
-print("testing")
 print("testing second print")
 
 Test()
