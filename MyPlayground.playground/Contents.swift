@@ -61,5 +61,6 @@ func Test(){
 }
 
 print("testing")
+print("testing second print")
 
 Test()
